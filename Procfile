@@ -1,1 +1,1 @@
-bot: python3 virus.py
+bot: python3 hmsall.py
